@@ -44,7 +44,7 @@ if (!empty($_POST)) {
 
            $body  = "Bonjour, <br /><br>Nous accusons bonne r&eacute;ception de votre message et nous vous remercions de l'int&eacute;r&ecirc;t que vous portez &agrave; notre entreprise.<br /><br>
 
-                    Nous allons étudier votre demande et vous répondre dès que possible.
+                    Nous allons &eacute;tudier votre demande et vous r&eacute;pondre d	&egrave;s que possible.
                     <br /><br />
                     Cordialement.
                     <br > <br > <br >
