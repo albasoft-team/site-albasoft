@@ -28,7 +28,7 @@ if (!empty($_POST)) {
         $mail->Port = 587;                                    // TCP port to connect to
 
         $mail->setFrom('mail.albasoft@gmail.com',$company);
-        $mail->addAddress('ibrahima-sory.diallo@albasoft.fr');     // Add a recipient
+        $mail->addAddress('contact@albasoft.fr');     // Add a recipient
 
 //        $mail->addAttachment('/var/tmp/file.tar.gz');
         $mail->isHTML(true);                                  // Set email format to HTML
