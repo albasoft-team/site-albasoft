@@ -158,12 +158,14 @@
 	background-image: url(../img/slider/img_1.png);
 }
 .bg-img-2 {
-	background-image: url(../img/slider/affinity.jpeg);
+	background-image: url(../img/slider/equipe.jpg);
 }
 .bg-img-3 {
 	background-image: url(../img/slider/cinelli.jpeg);
 }
-
+.bg-img-4 {
+	background-image: url(../img/slider/delaiG.jpg);
+}
 
 /* Animations for content elements */
 
